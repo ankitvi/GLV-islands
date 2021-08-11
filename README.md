@@ -1,7 +1,9 @@
 ## GLV-islands
 Jupyter Notebook accompanying the article "Island Species Area Relationships and the assembly of complex ecological communities" by Ankit Vikrant and Martin Nilsson Jacobi.
 
-## Use:
-The notebook (.ipynb file) demonstrates the simulations described in the article for a particular choice of parameters. Other cases can be simulated using parameter choices that accompany the figures within the article. 
+## Dependencies
+Requires python libraries scipy, numpy, matplotlib, networkx. 
 
-In case you discover something interesting (or strange) when exploring other parts of the parameter space (or other functional forms for the immigration term maybe), I would be happy to hear about it!
+## Use:
+The notebook (.ipynb file) implements the simulations described in the article for a particular choice of parameters. Other cases can be simulated using parameter choices that accompany the figures within the article. 
+
